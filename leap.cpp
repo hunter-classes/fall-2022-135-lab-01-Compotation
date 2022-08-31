@@ -2,7 +2,7 @@
 
 int main() {
 	int year;
-	std::cout << "What is your year? ";
+	std::cout << "Enter year: ";
 	std::cin >> year;
 
 	if (year % 100 == 0) {
